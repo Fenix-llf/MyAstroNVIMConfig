@@ -1,0 +1,18 @@
+# Local tool state
+/.codex
+
+# Logs
+/nvim.log
+*.log
+
+# Editor swap and backup files
+*.swp
+*.swo
+*~
+
+# Neovim local state
+.netrwhist
+Session.vim
+
+# OS cruft
+.DS_Store
