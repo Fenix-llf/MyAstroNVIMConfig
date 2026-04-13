@@ -16,3 +16,4 @@ Session.vim
 
 # OS cruft
 .DS_Store
+lazy-lock.json
